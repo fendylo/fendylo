@@ -1,31 +1,31 @@
 # 👋 Hi, I'm Fendy Lomanjaya
 
-Welcome to my GitHub! I'm a passionate and results-driven developer with a strong background in **full-stack development**, **AI**, and **data science**. I love building intelligent, scalable solutions that deliver real-world impact.
+Welcome to my GitHub 😀! I'm a passionate and results-driven developer with a strong background in **full-stack development**, **AI**, and **data science**. I love building intelligent, scalable solutions that deliver real-world impact.
 
-🎓 I'm currently completing a **Master of Artificial Intelligence** at UTS (GPA: 6.83/7.00), after graduating with a **Bachelor of Computer Science** (GPA: 3.99/4.00). I'm also a proud recipient of multiple academic awards and scholarships.
+🎓 I have completed a **Master of Artificial Intelligence** at UTS (GPA: 6.83/7.00), after graduating with a **Bachelor of Computer Science** (GPA: 3.99/4.00). I'm also a proud recipient of multiple academic awards and scholarships.
+
+Explore more about me here 😀:  
+📁 **Portfolio:** [https://fendylo.github.io/portfolio.github.io/](https://fendylo.github.io/portfolio.github.io/)
 
 ---
 
-## 🧠 AI & Data Science Skills
-- **Languages & Libraries:** Python, SQL, PyTorch, TensorFlow, Scikit-learn, Pandas, NumPy, OpenCV, NLTK
-- **Techniques:** Computer Vision (YOLOv9, inpainting, segmentation), NLP (LLMs, RAG, OCR), ML pipelines (ClearML, Vertex AI, Sagemaker)
-- **Tools:** Jupyter, Docker, BigQuery, Tableau, Hugging Face, Gemini, OpenAI, Gymnasium
+## 💻 Full-Stack & Mobile Development
+- **Frontend:** HTML, CSS, JavaScript, ReactJS, WPF / Windows Form
+- **Backend:** Django, Flask, Node.js, ExpressJS, NestJS, .NET, Laravel, PHP
+- **Mobile App Dev:** Android Native (Java & Kotlin), iOS (SwiftUI), React Native (Hybrid)
+- **Databases:** Firebase, MongoDB, MySQL, PostgreSQL, Supabase, Oracle & PL/SQL
 - **Cloud:** AWS, GCP, Azure
-- **Certifications:**
-  - 🧠 [Google Cloud] Generative AI for Developers  
-  - 📊 [Google Cloud] Professional Machine Learning Engineer  
-  - 🤖 [Microsoft] AI Fundamentals  
+- **DevOps:** Docker, CI/CD, Git, Jest, GitHub Actions
+- **Others:** Jira, AI Integration, Automated Testing, UI/UX, Design Pattern
 
 ---
 
-## 🖥️ Full-Stack & Web/Mobile Dev Skills
-- **Frontend:** React.js, Vue.js, Angular, HTML5, CSS3, Bootstrap, Tailwind
-- **Backend:** Node.js, Django, Flask, Laravel, .NET Core, Express.js
-- **Mobile:** Kotlin (Android), React Native, Cordova
-- **Database:** PostgreSQL, MySQL, MongoDB, Firebase, Supabase
-- **DevOps & CI/CD:** Docker, GitHub Actions, Azure DevOps, ClearML, Git
-- **Cloud Hosting:** AWS (EC2, Lambda, S3), GCP (Cloud Run, Firebase), Azure
-- **Tools:** Jira, Vite, Jest, Postman, REST & GraphQL APIs
+## 🤖 Data Science & AI
+- **Languages & Tools:** Python, Excel, SQL, Tableau, Matplotlib
+- **Libraries & Frameworks:** TensorFlow, PyTorch, Pandas, NumPy, OpenCV, NLTK, Hugging Face, LangChain
+- **Domains:** NLP, Computer Vision, Generative AI, MLOps
+- **ML Tools:** Vertex AI, AWS SageMaker Autopilot, Azure AI Services, ClearML
+- **Others:** Data Wrangling, Feature Engineering, Model Deployment, Web Scraping
 
 ---
 
@@ -34,10 +34,6 @@ Welcome to my GitHub! I'm a passionate and results-driven developer with a stron
 - ✋ **[Drone Steering via Hand & Face Recognition](https://github.com/Diegoalejandroingelec/dji-tello-YOLOv9)** – Gesture-controlled drone app with YOLOv9 achieving 97.7% accuracy.
 - 🎨 **[Agentic Image Editing Platform](https://github.com/PromptVision-AI)** – Chat-style interface integrating multiple vision models with LangChain orchestration.
 - 🍱 **[AI Nutrition Advisor](https://github.com/fendylo/respfoodie)** – Generative AI-powered Kotlin mobile app offering personalised meal suggestions.
-
-Explore more projects here:  
-📁 **Portfolio:** [https://fendylo.github.io/portfolio.github.io/](https://fendylo.github.io/portfolio.github.io/)
-
 ---
 
 ## 🔗 Let's Connect!
