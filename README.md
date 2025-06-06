@@ -10,9 +10,9 @@ Explore more about me here 😀:
 ---
 
 ## 💻 Full-Stack & Mobile Development
-- **Frontend:** HTML, CSS, JavaScript, ReactJS, WPF / Windows Form
-- **Backend:** Django, Flask, Node.js, ExpressJS, NestJS, .NET, Laravel, PHP
-- **Mobile App Dev:** Android Native (Java & Kotlin), iOS (SwiftUI), React Native (Hybrid)
+- **Frontend:** HTML, CSS, JavaScript, Angular, ReactJS, jQuery, Tailwind
+- **Backend:** Django, ExpressJS, .NET Core, Spring Boot, NestJS, Flask, Laravel, PHP
+- **Mobile App Dev:** Android Native (Java & Kotlin), iOS (SwiftUI), React Native, Flutter, Cordova (Hybrid)
 - **Databases:** Firebase, MongoDB, MySQL, PostgreSQL, Supabase, Oracle & PL/SQL
 - **Cloud:** AWS, GCP, Azure
 - **DevOps:** Docker, CI/CD, Git, Jest, GitHub Actions
